@@ -1,0 +1,6 @@
+server:
+  port: 8420
+  servlet:
+    context-path: /venom
+logging:
+  config: classpath:logback-spring.xml
